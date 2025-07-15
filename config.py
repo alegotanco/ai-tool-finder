@@ -1,5 +1,3 @@
-# config.py
-
 KEYWORDS = [
     "automated app builder", "agentic app builder", "full-stack website builder", "coding automation tool",
     "developer automation", "AI code generator", "low-code platform", "no-code platform", "AI developer assistant",

@@ -1,5 +1,3 @@
-# main.py
-
 import pandas as pd
 from linkedin_scraper import scrape_linkedin
 from x_scraper import scrape_x

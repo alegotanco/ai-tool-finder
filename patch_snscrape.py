@@ -7,7 +7,7 @@ init_path = os.path.join(os.path.dirname(snscrape.modules.__file__), '__init__.p
 with open(init_path, 'r') as file:
     content = file.read()
 
-# Replace all instances of 'find_module' with 'find_spec'
+
 new_content = content.replace('find_module', 'find_spec')
 
 with open(init_path, 'w') as file:

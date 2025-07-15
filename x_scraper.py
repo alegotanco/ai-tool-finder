@@ -1,5 +1,3 @@
-# x_scraper.py
-
 import tweepy
 from datetime import datetime, timedelta
 from config import KEYWORDS, DAYS_BACK
