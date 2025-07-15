@@ -1,0 +1,5 @@
+selenium>=4.21.0
+tweepy>=4.14.0
+pandas>=2.2.2
+chromedriver-autoinstaller>=0.6.4
+python-dotenv>=1.0.1
