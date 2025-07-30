@@ -1,4 +1,4 @@
-# AI Tools Scraper
+# AI Tools Finder
 
 Scrapes LinkedIn and X for the latest free AI tool announcements.
 
